@@ -8,7 +8,7 @@ const Navbar = () => {
     <div>
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark mb-5">
         <Link to='/' className="navbar-brand pl-5">
-          MoviesSearchInfo
+          MoviesSearchGround
         </Link>
         <button
           className="navbar-toggler"
